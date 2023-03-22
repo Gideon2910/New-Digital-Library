@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119073847222",
+    "project_id": "signin-example-cebe8",
+    "storage_bucket": "signin-example-cebe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119073847222:android:952a4817932c790b747317",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119073847222-c1gra8n7o4jm42ha9dk40okstkvd49eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8AryHb-pIY2w1LDSF2imuz6gFRSLGS9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119073847222-c1gra8n7o4jm42ha9dk40okstkvd49eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
